@@ -43,7 +43,7 @@ uint8_t	 CMDBUF[MAX_CMD_BUF];
 bool     inChord  		= false;
 bool	 repEngaged 	= false;
 uint16_t repTimer 		= 0;
-#define  REP_INIT_DELAY 750
+#define  REP_INIT_DELAY 1750
 #define  REP_DELAY 		25
 
 // Mousekeys state
